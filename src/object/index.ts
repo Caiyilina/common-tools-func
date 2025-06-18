@@ -16,13 +16,13 @@ export function deepClone<T>(obj: T): T {
 
   // 处理数组
   if (Array.isArray(obj)) {
-    const arrCopy = new Array(obj.length) as T;
+    const arrCopy = new Array(obj.length) as T[];
     for (let i = 0; i < obj.length; i++) {
       if (Object.prototype.hasOwnProperty.call(obj, i)) {
         arrCopy[i] = deepClone(obj[i]);
       }
     }
-    return arrCopy;
+    return arrCopy as T;
   }
 
   // 处理普通对象

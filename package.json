@@ -1,7 +1,7 @@
 {
   "name": "common-tools-func",
   "version": "0.0.5",
-  "description": "A collection of common utility functions including debounce and throttle",
+  "description": "A collection of common tools functions  for Javascript or TypeScript",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -18,11 +18,11 @@
     "typescript",
     "common utils"
   ],
-  "author": "lune_10",
+  "author": "lune",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lune_10/common-tools-func"
+    "url": "https://github.com/Caiyilina/common-tools-func"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
