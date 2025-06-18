@@ -1,3 +1,5 @@
+[English](./README_EN.md) | [中文](./README.md)
+
 # common-tools-func
 
 ## Project Introduction
