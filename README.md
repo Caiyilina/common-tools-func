@@ -1,6 +1,6 @@
-[English](https://github.com/lune_10/common-tools-func/blob/main/README_EN.md) | [中文](https://github.com/lune_10/common-tools-func/blob/main/README.md)
-
 # common-tools-func
+
+[简体中文](https://www.npmjs.com/package/common-tools-func) | [English](https://github.com/Caiyilina/common-tools-func/blob/master/README_EN.md)
 
 ## 项目简介
 
