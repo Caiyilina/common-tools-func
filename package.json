@@ -15,13 +15,14 @@
     "debounce",
     "throttle",
     "common-tools-func",
-    "typescript"
+    "typescript",
+    "common utils"
   ],
   "author": "lune_10",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lune_10/common-tools-func"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",

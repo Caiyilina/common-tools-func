@@ -1,4 +1,4 @@
-[English](./README_EN.md) | [中文](./README.md)
+[English](https://github.com/lune_10/common-tools-func/blob/main/README_EN.md) | [中文](https://github.com/lune_10/common-tools-func/blob/main/README.md)
 
 # common-tools-func
 
