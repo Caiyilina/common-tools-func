@@ -35,5 +35,3 @@ export function throttle<T extends (...args: any[]) => any>(
     }
   };
 }
-
-// 其他实用工具函数可以在这里添加

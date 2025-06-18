@@ -1,1 +1,2 @@
-export { throttle, debounce } from "./function/index";
+export { throttle, debounce } from "./function";
+export { deepClone } from "./object";
