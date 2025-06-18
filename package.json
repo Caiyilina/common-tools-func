@@ -1,18 +1,21 @@
 {
   "name": "common-tools-func",
-  "version": "1.0.1",
+  "version": "0.0.2",
   "description": "A collection of common utility functions including debounce and throttle",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "jest",
+    "test": "jest tests",
+    "test:watch": "jest tests --watch",
     "prepublish": "npm run build"
   },
   "keywords": [
     "utils",
     "utility",
     "debounce",
-    "throttle"
+    "throttle",
+    "common-tools-func",
+    "typescript"
   ],
   "author": "lune_10",
   "license": "MIT",
