@@ -1,5 +1,5 @@
 {
-  "name": "common-utils",
+  "name": "common-tools-func",
   "version": "1.0.0",
   "description": "A collection of common utility functions including debounce and throttle",
   "main": "dist/index.js",
